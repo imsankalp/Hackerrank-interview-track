@@ -2,6 +2,9 @@
 During a meeting all the members where invited but 9 gangsters arrived instead of 7. The specific code that was allocated to
 the gang members add to 100. Now write a program to print the real 7 gangsters code out of 9.*/
 
+//Subset Sum Problem Variation
+
+//Brute Force Approach
 #include<iostream>
 using namespace std;
 int main()
